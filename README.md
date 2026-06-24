@@ -2,8 +2,8 @@
 
 ### 🚀 Aspiring Software Engineer | Full Stack Developer (MERN) | Java | Python | SQL | Data Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srijeet-biswas-a69103235)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:srijeetbiswas.sb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srijeet-biswas-a69103235)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:srijeetbiswas.sb@gmail.com)
 
 ---
 
@@ -24,19 +24,38 @@ I enjoy building scalable applications, solving real-world problems, and continu
 ## 🎓 Education
 
 ### Techno Main Salt Lake (TMSL)
+
 **Bachelor of Technology (B.Tech) – Electronics & Communication Engineering**
-2022-2026
 
+*2022 – 2026*
 
-### NAVA NALANDA HIGH SCHOOL
-**HIGHER SECONDARY EXAMINATION**
-2019-2021
+**Current CGPA:** 6.97
 
+**Relevant Coursework:** Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks
 
-### NAVA NALANDA HIGH SCHOOL
-**MADHYAMIK PARIKSHA**
-2018-2019
+---
 
+### Nava Nalanda High School
+
+**Higher Secondary Examination (WBCHSE)**
+
+*2019 – 2021*
+
+**Percentage:** 78.8%
+
+**Stream:** Science (Physics, Chemistry, Mathematics, Computer Science)
+
+---
+
+### Nava Nalanda High School
+
+**Madhyamik Examination (WBBSE)**
+
+*2018 – 2019*
+
+**Percentage:** 82%
+
+---
 ---
 
 ## ☁️ Certifications
@@ -95,17 +114,6 @@ I enjoy building scalable applications, solving real-world problems, and continu
 - Implemented validation and approval workflows for accurate ESG reporting.
 - Designed REST APIs for frontend-backend integration.
 - Built dashboards and audit logs for reporting and traceability.
-
----
-
-### 💊 Stock Easy – Medicine Stock Management Application
-
-**Tech Stack:** Spring Boot, Java, MySQL, REST APIs, React.js
-
-- Developed a full-stack inventory management system.
-- Implemented medicine tracking, customer management, billing, and reporting.
-- Designed relational database schemas and backend integrations.
-- Streamlined medicine inventory and sales workflows.
 
 ---
 
