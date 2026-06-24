@@ -18,6 +18,7 @@ I enjoy building scalable applications, solving real-world problems, and continu
 - Full Stack Developer
 - Software Developer
 - Backend Developer
+- Data Analyst
 
 ---
 
