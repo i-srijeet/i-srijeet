@@ -13,8 +13,6 @@ I am a **Final-Year Electronics & Communication Engineering Student (TMSL'26)** 
 
 I enjoy building scalable applications, solving real-world problems, and continuously expanding my expertise across modern software technologies.
 
-☁️ **Oracle Cloud Infrastructure 2025 AI Foundations Associate Certified**
-
 🎯 Currently seeking opportunities as:
 - Associate Software Engineer
 - Full Stack Developer
