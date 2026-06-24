@@ -25,8 +25,17 @@ I enjoy building scalable applications, solving real-world problems, and continu
 
 ### Techno Main Salt Lake (TMSL)
 **Bachelor of Technology (B.Tech) – Electronics & Communication Engineering**
+2022-2026
 
-📅 Expected Graduation: 2026
+
+### NAVA NALANDA HIGH SCHOOL
+**HIGHER SECONDARY EXAMINATION**
+2019-2021
+
+
+### NAVA NALANDA HIGH SCHOOL
+**MADHYAMIK PARIKSHA**
+2018-2019
 
 ---
 
@@ -173,9 +182,9 @@ Driven by curiosity and continuous learning, I aim to build scalable software so
 
 ## 📈 GitHub Stats
 
-![Srijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Srijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-srijeet&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-srijeet&layout=compact)
 
 ---
 
